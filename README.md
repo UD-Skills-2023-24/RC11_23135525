@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YmApcLfC)
-There are three Assignment I upload for the Python Class with Julian in FinalAssignment_Julian Folder, the Algorithm Class with Ceel in FinalAssignment_Ceel Folder, the Houdini Class with Joris in FinalAssignment_Joris Folder.
+There are three Assignments I uploaded for the Python Class with Julian in FinalAssignment_Julian Folder, the Algorithm Class with Ceel in FinalAssignment_Ceel Folder, the Houdini Class with Joris in FinalAssignment_Joris Folder.
 
 
 In Ceel's Assignment Folder, there is a notebook file showing the codes of complexity assignment.
