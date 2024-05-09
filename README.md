@@ -9,4 +9,4 @@ The folder in the link contains the link files required for the submitted Houdin
 
 In Julian's Assignment Folder, there is a pdf guidance which includes a link of the full files of the assignment. Here is the quick chek for the link:
 https://liveuclac-my.sharepoint.com/personal/ucbvhbh_ucl_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fucbvhbh%5Fucl%5Fac%5Fuk%2FDocuments%2FRC11%5F23135525%5FFinalAssignment%5FJulian%5FFullFiles&ga=1
-Due to the size limited of Github, so all the files including the notebook files were uploaded on the OneDrive, my suggestion is to download the full files on OneDrive and see the instruction in pdf.
+Due to the size limited of Github, so all the files including the notebook files were uploaded on the OneDrive, my suggestion is to download the full files on OneDrive and run the notebook.
