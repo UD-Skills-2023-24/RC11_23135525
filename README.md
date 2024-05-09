@@ -3,8 +3,8 @@ There are three Assignment I upload for the Python Class with Julian in FinalAss
 
 In Ceel's Assignment Folder, there is a notebook file showing the codes of complexity assignment.
 
-In Joris's Assignment Folder, 3 houdini files and 1 json file are included, also a pdf with the extension file link is also in this folder, please follow the pdf to download the full files. Also, here is a quick check for the extension file link on OneDrive:https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvhbh_ucl_ac_uk/
-EhWa8hBfc-pCoXanKjrWo3ABDqUwhO8JzATryMWRpkwzpQ?e=Pia22v
+In Joris's Assignment Folder, 3 houdini files and 1 json file are included, also a pdf with the extension file link is also in this folder, please follow the pdf to download the full files. Also, here is a quick check for the extension file link on OneDrive:
+https://liveuclac-my.sharepoint.com/:f:/g/personal/ucbvhbh_ucl_ac_uk/EhWa8hBfc-pCoXanKjrWo3ABDqUwhO8JzATryMWRpkwzpQ?e=Pia22v
 The folder in the link contains the link files required for the submitted Houdini file, and is divided into categories according to different homework projects. Please refer to the instructions in the pdf for details.
 
 In Julian's Assignment Folder, there is a pdf guidance which includes a link of the full files of the assignment. Here is the quick chek for the link:
